@@ -9,7 +9,7 @@
 
 ## Providers
 
-Use external providers to deliver training, run acessibility audits, perform user testing and give advice.
+Use external providers to deliver training, run audits, perform user testing and give advice:
 
 - [Shaw Trust](https://www.shaw-trust.org.uk/)
 - [AbilityNet](https://www.abilitynet.org.uk/)
