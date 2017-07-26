@@ -40,11 +40,15 @@ NVDA
 - [read&write](https://www.texthelp.com/en-gb/products/read-write/)
 - [Claro](https://www.clarosoftware.com/)
 
+### Contrast
+
+- [High Contrast](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph)
+
 ## Tools
 
 ### Checkers
 
-- [Wave WebAIM](http://wave.webaim.org/extension/) - Chrome and Firefox extension for evaluating web content for accessibility issues
+- [Wave WebAIM](http://wave.webaim.org/extension/) - Chrome and Firefox extension for evaluating web content for accessibility issues. Also includes a colour contrast tool, desauturation tool and testing without styles.
 - [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en) - Chrome Extension for ccessibility audits and element properties
 - [HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
 - [a11y.css](http://ffoodd.github.io/a11y.css/) - Bookmarklet to warn developers about possible risks and mistakes that exist in HTML code
