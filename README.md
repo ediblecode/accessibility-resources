@@ -139,7 +139,11 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [How to Make Your Website Accessible to People Who Use a Screen Magnifier](https://dev.to/_bigblind/how-to-make-your-website-accessible-to-people-who-use-a-screen-magnifier)
 - [What I've learned about motor impairment](http://simpleprimate.com/blog/motor)
 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
-- [Pragmatic Accessibility: A How-To Guide for Teams](https://www.youtube.com/watch?v=A5XzoDT37iM)
 - [Accessibility for Visual Design](http://www.uxbooth.com/articles/accessibility-visual-design/)
-- [What does User Experience mean when you're blind?](https://vimeo.com/222490579)
 - [Writing Accessible Content](https://foxland.fi/writing-accessible-content/)
+
+## Videos
+
+- [What does User Experience mean when you're blind?](https://vimeo.com/222490579)
+- [Inclusive Design Principles – Henny Swan : #ID24 2017](https://youtu.be/D4GrA7NvdOs)
+- [Pragmatic Accessibility: A How-To Guide for Teams](https://www.youtube.com/watch?v=A5XzoDT37iM)
