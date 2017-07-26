@@ -154,6 +154,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 ### Automation
 
 - [The Power (and Limits) of Automated Accessibility Testing](https://www.nerdery.com/blog/the-power-and-limits-of-automated-accessibility-testing)
+- [Accessibility Testing with aXe-core and WebdriverJS](https://www.deque.com/blog/accessibility-testing-axe-webdriverjs/)
 
 ## Videos
 
