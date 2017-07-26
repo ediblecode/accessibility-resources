@@ -142,6 +142,10 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Accessibility for Visual Design](http://www.uxbooth.com/articles/accessibility-visual-design/)
 - [Writing Accessible Content](https://foxland.fi/writing-accessible-content/)
 
+### Automation
+
+- [The Power (and Limits) of Automated Accessibility Testing](https://www.nerdery.com/blog/the-power-and-limits-of-automated-accessibility-testing)
+
 ## Videos
 
 - [What does User Experience mean when you're blind?](https://vimeo.com/222490579)
