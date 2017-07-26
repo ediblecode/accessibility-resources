@@ -121,6 +121,7 @@ NVDA
 - [Designing Slack for everyone](https://slackhq.com/designing-slack-for-everyone-456002920bf2)
 - [Dropbox - Creating a culture of accessibility](https://blogs.dropbox.com/tech/2017/04/creating-a-culture-of-accessibility/)
 - [National Archives - This is for everyone: accessibility and digital](http://blog.nationalarchives.gov.uk/blog/everyone-accessibility-digital/)
+- [Innovating with accessibility in mind](https://www.oreilly.com/ideas/innovating-with-accessibility-in-mind)
 
 ### Specifics
 
