@@ -142,3 +142,4 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Pragmatic Accessibility: A How-To Guide for Teams](https://www.youtube.com/watch?v=A5XzoDT37iM)
 - [Accessibility for Visual Design](http://www.uxbooth.com/articles/accessibility-visual-design/)
 - [What does User Experience mean when you're blind?](https://vimeo.com/222490579)
+- [Writing Accessible Content](https://foxland.fi/writing-accessible-content/)
