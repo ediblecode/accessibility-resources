@@ -90,7 +90,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 
 ## Other
 
-- [The A11Y project])(http://a11yproject.com/) - A community-driven effort to make web accessibility easier
+- [The A11Y project](http://a11yproject.com/) - A community-driven effort to make web accessibility easier
 - [Inclusive Design Principles](http://inclusivedesignprinciples.org/)
 - [OATMEAL - Accessibility Testing for the Web](https://ebay.gitbooks.io/oatmeal/)
 - [Gov.uk accessibility community](https://www.gov.uk/service-manual/communities/accessibility-community)
