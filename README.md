@@ -92,6 +92,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 
 - [The A11Y project])(http://a11yproject.com/) - A community-driven effort to make web accessibility easier
 - [Inclusive Design Principles](http://inclusivedesignprinciples.org/)
+- [OATMEAL - Accessibility Testing for the Web](https://ebay.gitbooks.io/oatmeal/)
 - [Gov.uk accessibility community](https://www.gov.uk/service-manual/communities/accessibility-community)
 - [Making your service accessible: an introduction](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) - Help for making a government digital service that’s as inclusive as possible
 - [a11y Slack](https://web-a11y.herokuapp.com/)
@@ -135,3 +136,4 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
 - [Pragmatic Accessibility: A How-To Guide for Teams](https://www.youtube.com/watch?v=A5XzoDT37iM)
 - [Accessibility for Visual Design](http://www.uxbooth.com/articles/accessibility-visual-design/)
+- [What does User Experience mean when you're blind?](https://vimeo.com/222490579)
