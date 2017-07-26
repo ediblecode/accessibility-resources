@@ -67,9 +67,11 @@ NVDA
 ### Colour contrast
 
 - [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
-- [Acccessible colours](http://accessible-colors.com/)
-- [Contrast ratio](http://leaverou.github.io/contrast-ratio/)
+- [Color Safe](http://colorsafe.co/) - Accessible web color combinations
+- [Acccessible colours](http://accessible-colors.com/) - WCAG 2.0 AA and AAA color contrast checker
+- [Contrast ratio](http://leaverou.github.io/contrast-ratio/) - Lea Verou's tool for easily calculate color contrast ratios
 - [Colour Contrast Analyser (CCA)](https://www.paciellogroup.com/resources/contrastanalyser/) - Windows/Mac tool for to determine the legibility of text and the contrast of visual elements, such as graphical controls and visual indicators
+- [Jonathan Snook’s Colour Contrast Check](https://snook.ca/technical/colour_contrast/colour.html) - Colour contrast checking tool for both AA & AAA and 18pt+
 
 ### Automation
 
