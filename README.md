@@ -91,6 +91,8 @@ NVDA
 - [Vox Media](http://accessibility.voxmedia.com/)
 - [Opquast Web Quality Checklist](https://www.opquast.com/opquast-web-quality-checklist/)
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) - Summary of WCAG with practical examples
+- [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/)
+- [Wuhcag - WCAG 2.0 checklists](https://www.wuhcag.com/wcag-checklist/)
 
 ## Meetups
 
