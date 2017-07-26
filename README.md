@@ -49,6 +49,7 @@ NVDA
 ### Checkers
 
 - [Wave WebAIM](http://wave.webaim.org/extension/) - Chrome and Firefox extension for evaluating web content for accessibility issues. Also includes a colour contrast tool, desauturation tool and testing without styles.
+- [Siteimprove Accessibility Checker](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc) - Comprehensive tool for evaluating accessibility issues
 - [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en) - Chrome Extension for ccessibility audits and element properties
 - [HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
 - [a11y.css](http://ffoodd.github.io/a11y.css/) - Bookmarklet to warn developers about possible risks and mistakes that exist in HTML code
