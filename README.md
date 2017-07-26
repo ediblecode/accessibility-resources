@@ -86,9 +86,7 @@ NVDA
 
 ## Courses
 
-- [TeachAccess](https://teachaccess.github.io/tutorial/) - provides basic training to developers and designers around best practices for making accessible mobile and web apps
-- [Introduction to Web Accessibility with Google](https://webaccessibility.withgoogle.com/course) - Free online course from Google
-- [Introduction to Web Accessibility (EdX/Microsoft)](https://www.edx.org/course/introduction-web-accessibility-microsoft-dev240x#)
+See [a11y-courses](https://github.com/mgifford/a11y-courses).
 
 ## Other
 
