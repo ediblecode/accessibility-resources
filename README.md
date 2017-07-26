@@ -123,6 +123,7 @@ NVDA
 - [Dropbox - Creating a culture of accessibility](https://blogs.dropbox.com/tech/2017/04/creating-a-culture-of-accessibility/)
 - [National Archives - This is for everyone: accessibility and digital](http://blog.nationalarchives.gov.uk/blog/everyone-accessibility-digital/)
 - [Innovating with accessibility in mind](https://www.oreilly.com/ideas/innovating-with-accessibility-in-mind)
+- [Championing Accessibility at the Guardian](https://www.theguardian.com/info/developer-blog/2017/jun/26/championing-accessibility-at-the-guardian)
 
 ### Specifics
 
@@ -135,4 +136,4 @@ NVDA
 - [What I've learned about motor impairment](http://simpleprimate.com/blog/motor)
 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
 - [Pragmatic Accessibility: A How-To Guide for Teams](https://www.youtube.com/watch?v=A5XzoDT37iM)
-- [Championing Accessibility at the Guardian](https://www.theguardian.com/info/developer-blog/2017/jun/26/championing-accessibility-at-the-guardian?CMP=share_btn_tw)
+- [Accessibility for Visual Design](http://www.uxbooth.com/articles/accessibility-visual-design/)
