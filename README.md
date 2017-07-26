@@ -54,6 +54,11 @@ NVDA
 - [European Internet Inclusion Initiative](http://checkers.eiii.eu/) - Check the Accessibility of a Web Page
 - [Asqatasun](http://asqatasun.org/) - Opensource web site analyser
 
+### Writing
+
+- [Hemingway App](http://www.hemingwayapp.com/) - Highlights common problems that can get in the way of clear writing
+- [Readable](https://www.webpagefx.com/tools/read-able/) - Readability testing tool
+
 ### Simulation
 
 - [ChromeLens](http://chromelens.xyz/) - Chrome DevTools extension to develop for the visually impaired
