@@ -78,12 +78,13 @@ NVDA
 - [Colour Contrast Analyser (CCA)](https://www.paciellogroup.com/resources/contrastanalyser/) - Windows/Mac tool for to determine the legibility of text and the contrast of visual elements, such as graphical controls and visual indicators
 - [Jonathan Snook’s Colour Contrast Check](https://snook.ca/technical/colour_contrast/colour.html) - Colour contrast checking tool for both AA & AAA and 18pt+
 
-### Automation
+### Test automation
 
 - [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
 - [AATT](https://github.com/paypal/AATT) - PayPal's automated accessibility testing tool
 - [Pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 - [A11y](https://addyosmani.com/a11y/) - Web accessibility audits powered by the Chrome Accessibility Developer Tools
+- [WorldSpace Comply](https://www.deque.com/product/worldspace-comply/) - Commercial "automated testing tool for performing enterprise-level accessibility audit"
 
 ## Checklists
 
