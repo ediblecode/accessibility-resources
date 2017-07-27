@@ -93,6 +93,7 @@ NVDA
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) - Summary of WCAG with practical examples
 - [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/)
 - [Wuhcag - WCAG 2.0 checklists](https://www.wuhcag.com/wcag-checklist/)
+- [IBM Accessibility Checklist](http://www-03.ibm.com/able/guidelines/ci162/accessibility_checklist.html)
 
 ## Meetups
 
