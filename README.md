@@ -153,6 +153,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 
 ## Style guides
 
+- [Material Design](https://material.io/guidelines/usability/accessibility.html) - Acecessibility guidelines from Google's Material Design
 - [eBay's Mind Patterns](http://ianmcburnie.github.io/mindpatterns/) - Accessibility Patterns for the Web
 - [React](https://facebook.github.io/react/docs/accessibility.html) - Implement accessible React apps
 - [Shopify - Polaris](https://polaris.shopify.com/principles/accessibility)
