@@ -203,6 +203,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Color Blindness Demonstration Using Coloured Pencils](https://imjustcreative.com/color-blindness/2017/01/26) - Simple demonstration, using Coloured Pencils, showing 4 types of Color Blindness
 - [Selfish accessibility](http://adrianroselli.com/2017/03/selfish-accessibility-slides-from-talk-at-government-digital-service.html) - Slides from a talk at GDS
 - [Reframing Accessibility for the Web](https://alistapart.com/article/reframing-accessibility-for-the-web)
+- [How I Audit a Website for Accessibility](http://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
 
 ### Videos
 
