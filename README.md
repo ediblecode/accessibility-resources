@@ -115,6 +115,7 @@ NVDA
 - [Pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 - [A11y](https://addyosmani.com/a11y/) - Web accessibility audits powered by the Chrome Accessibility Developer Tools
 - [WorldSpace Comply](https://www.deque.com/product/worldspace-comply/) - Commercial "automated testing tool for performing enterprise-level accessibility audit"
+- [AccessLint](https://github.com/accesslint) - Wrapper around axe-core.
 
 ## Checklists
 
@@ -192,6 +193,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 
 - [The Power (and Limits) of Automated Accessibility Testing](https://www.nerdery.com/blog/the-power-and-limits-of-automated-accessibility-testing)
 - [Accessibility Testing with aXe-core and WebdriverJS](https://www.deque.com/blog/accessibility-testing-axe-webdriverjs/)
+- [Introducing AccessLint CI - Automated Web Accessibility Testing](https://robots.thoughtbot.com/introducing-accesslint-web-accessibility-testing-in-ci)
 
 ### Other articles
 
