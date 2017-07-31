@@ -155,6 +155,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Writing Accessible Content](https://foxland.fi/writing-accessible-content/)
 - [Designing accessible products](https://uxdesign.cc/designing-accessible-products-e8aa79b55ebc)
 - [Writing descriptive alt attributes for images](http://simplyaccessible.com/article/descriptive-alt-attributes/)
+- [Personas for Accessible UX](http://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)
 
 ### Automation
 
