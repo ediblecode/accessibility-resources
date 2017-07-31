@@ -68,6 +68,7 @@ NVDA
 
 - [ChromeLens](http://chromelens.xyz/) - Chrome DevTools extension to develop for the visually impaired
 - [Vischeck](http://www.vischeck.com/) - Simulate colorblind vision
+- [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl) - Simulate how visual impairments affect website accessibility
 
 ### Colour contrast
 
