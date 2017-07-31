@@ -23,7 +23,7 @@
 * [Courses](#courses)
 * [Other](#other)
 * [Style guides](#style-guides)
-* [Articles, blogs & links](#articles-blogs-links)
+* [Articles, blogs & links](#articles-blogs--links)
   + [Culture](#culture)
   + [Techniques](#techniques)
   + [Automation](#automation)
