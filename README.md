@@ -108,6 +108,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 
 - [The A11Y project](http://a11yproject.com/) - A community-driven effort to make web accessibility easier
 - [Inclusive Design Principles](http://inclusivedesignprinciples.org/)
+- [Inclusive Components](https://inclusive-components.design/)
 - [OATMEAL - Accessibility Testing for the Web](https://ebay.gitbooks.io/oatmeal/)
 - [Gov.uk accessibility community](https://www.gov.uk/service-manual/communities/accessibility-community)
 - [Making your service accessible: an introduction](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) - Help for making a government digital service that’s as inclusive as possible
