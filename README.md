@@ -182,4 +182,5 @@ Follow these people on Twitter ([aside from me, @ediblecode](https://twitter.com
 - [Aaron Gustafson (@AaronGustafson)](https://twitter.com/AaronGustafson)
 - [Marcy Sutton (@marcysutton)](https://twitter.com/marcysutton)
 - [Steve Faulkner (@stevefaulkner)](https://twitter.com/stevefaulkner)
+- [Léonie Watson (@LeonieWatson)](https://twitter.com/LeonieWatson)
 - [Billy Gregory (@thebillygregory)](https://twitter.com/thebillygregory)
