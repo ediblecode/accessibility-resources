@@ -99,6 +99,7 @@ NVDA
 
 ## Meetups
 
+- [openmcr](https://twitter.com/openmcr) - A meetup in Manchester focussing on making digital services accessible to everyone
 - [Edinburgh Accessibility and Inclusive Design Meetup](https://www.meetup.com/Edinburgh-a11y-Meetup/). Also [@a11yedinburgh](https://twitter.com/a11yedinburgh)
 
 ## Courses
