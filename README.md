@@ -2,12 +2,40 @@
 
 > A curated list of accessibility resources
 
+## Table of contents
+
+* [General info](#general-info)
+* [Service providers](#service-providers)
+* [Assistive technologies](#assistive-technologies)
+  + [Screen readers](#screen-readers)
+  + [Maginfiers](#maginfiers)
+  + [Speech recognition](#speech-recognition)
+  + [Reading solution](#reading-solution)
+  + [Contrast](#contrast)
+* [Tools](#tools)
+  + [Checkers](#checkers)
+  + [Writing](#writing)
+  + [Simulation](#simulation)
+  + [Colour contrast](#colour-contrast)
+  + [Test automation](#test-automation)
+* [Checklists](#checklists)
+* [Meetups](#meetups)
+* [Courses](#courses)
+* [Other](#other)
+* [Style guides](#style-guides)
+* [Articles](#articles)
+  + [Culture](#culture)
+  + [Specifics](#specifics)
+  + [Automation](#automation)
+* [Videos](#videos)
+* [People to follow](#people-to-follow)
+
 ## General info
 
 - [W3C Accessibility](https://www.w3.org/standards/webdesign/accessibility)
 - [Guidance for service providers about their duties under the Equality Act 2010](https://www.equalityhumanrights.com/en/advice-and-guidance/guidance-service-providers)
 
-## Providers
+## Service providers
 
 Use external providers to deliver training, run audits, perform user testing and give advice:
 
