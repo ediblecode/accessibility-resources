@@ -167,3 +167,12 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Inclusive Design 24 (#ID24)](http://www.inclusivedesign24.org/) - Videos from the #ID24 event
 - [Pragmatic Accessibility: A How-To Guide for Teams](https://www.youtube.com/watch?v=A5XzoDT37iM)
 - [The Velvet Rope](https://youtu.be/rZExvZEjvtk) - Great video of a talk at NUX5 by Henny Swan
+
+## People to follow
+
+Follow these people on Twitter ([aside from me, @ediblecode](https://twitter.com/ediblecode)) for [#a11y](https://twitter.com/hashtag/a11y) updates:
+
+- [Molly Watt (@MollyWattTalks)](https://twitter.com/MollyWattTalks)
+- [Alistair Duggin (@dugboticus)](https://twitter.com/dugboticus)
+- [Heydon Pickering (@heydonworks)](https://twitter.com/heydonworks)
+- [Billy Gregory (@thebillygregory)](https://twitter.com/thebillygregory)
