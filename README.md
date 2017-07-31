@@ -166,3 +166,4 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [What does User Experience mean when you're blind?](https://vimeo.com/222490579)
 - [Inclusive Design 24 (#ID24)](http://www.inclusivedesign24.org/) - Videos from the #ID24 event
 - [Pragmatic Accessibility: A How-To Guide for Teams](https://www.youtube.com/watch?v=A5XzoDT37iM)
+- [The Velvet Rope](https://youtu.be/rZExvZEjvtk) - Great video of a talk at NUX5 by Henny Swan
