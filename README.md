@@ -186,6 +186,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Writing Accessible Content](https://foxland.fi/writing-accessible-content/) - Summary of good and bad practises about writing accessible content
 - [Designing accessible products](https://uxdesign.cc/designing-accessible-products-e8aa79b55ebc) - "A comprehensive visual guide to making web technology available to a diverse world"
 - [Writing descriptive alt attributes for images](http://simplyaccessible.com/article/descriptive-alt-attributes/)
+- [In Plain Sight: Text, Contrast, and Accessibility](https://ux.shopify.com/in-plain-sight-5639c9afb4c6) - Article from Shopify UX
 
 ### Automation
 
