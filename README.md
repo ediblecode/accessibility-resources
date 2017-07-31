@@ -205,6 +205,8 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Inclusive Design 24 (#ID24)](http://www.inclusivedesign24.org/) - Videos from the #ID24 event
 - [Pragmatic Accessibility: A How-To Guide for Teams](https://www.youtube.com/watch?v=A5XzoDT37iM) - A talk from [rob_dodson](https://twitter.com/rob_dodson) at Google I/O '17. Aimed at everyone (PMs, UX etc), not just developers!
 - [The Velvet Rope](https://youtu.be/rZExvZEjvtk) - Video of a great talk at [NUX5](https://2016.nuxconf.uk/) by Henny Swan about Accessible User Experience
+- [YES, your site too can (and should) be accessible](https://www.youtube.com/watch?v=H4FzW9oFObs) - [Laura Carvajals
+(@lc512k)](https://twitter.com/lc512k) from the FT's talk at JSConf EU 2017.
 
 ## People to follow
 
