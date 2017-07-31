@@ -177,7 +177,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 
 Follow these people on Twitter ([aside from me, @ediblecode](https://twitter.com/ediblecode)) for [#a11y](https://twitter.com/hashtag/a11y) updates:
 
-- [@a11y](https://twitter.com/a11y) - Curated list of [#a11y](https://twitter.com/hashtag/a11y) updates, curated by [@dotjay](@dotjay).
+- [@a11y](https://twitter.com/a11y) - Curated list of [#a11y](https://twitter.com/hashtag/a11y) updates, curated by [@dotjay](https://twitter.com/@dotjay).
 - [Molly Watt (@MollyWattTalks)](https://twitter.com/MollyWattTalks)
 - [Alistair Duggin (@dugboticus)](https://twitter.com/dugboticus)
 - [Heydon Pickering (@heydonworks)](https://twitter.com/heydonworks)
