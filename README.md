@@ -23,11 +23,11 @@
 * [Courses](#courses)
 * [Other](#other)
 * [Style guides](#style-guides)
-* [Articles](#articles)
+* [Articles, blogs & links](#articles-blogs-links)
   + [Culture](#culture)
-  + [Specifics](#specifics)
+  + [Techniques](#techniques)
   + [Automation](#automation)
-* [Videos](#videos)
+  + [Videos](#videos)
 * [People to follow](#people-to-follow)
 
 ## General info
@@ -158,11 +158,10 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Shopify - Polaris](https://polaris.shopify.com/principles/accessibility)
 - [MailChimp - Writing for Accessibility](http://styleguide.mailchimp.com/writing-for-accessibility/)
 
-## Articles
+## Articles, blogs & links
 
 ### Culture
 
-- [Color Blindness Demonstration Using Coloured Pencils](https://imjustcreative.com/color-blindness/2017/01/26)
 - [Creating an Accessible Culture](https://ux.shopify.com/creating-an-accessible-culture-199aaec12232)
 - [Empowering a more accessible and inclusive world](https://blogs.microsoft.com/on-the-issues/2017/05/18/empowering-more-accessible-inclusive-world/)
 - [Web accessibility is everyone’s job](https://medium.com/@rem_ram/building-accessibility-know-how-in-your-organisation-4b4f75a256cf)
@@ -174,34 +173,38 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Championing Accessibility at the Guardian](https://www.theguardian.com/info/developer-blog/2017/jun/26/championing-accessibility-at-the-guardian)
 - [Tips for making accessibility a core design principle](https://pixelpioneers.co/blog/2017/13-expert-tips-accessibility)
 
-### Specifics
+### Techniques
 
-- [Writing HTML with accessibility in mind](https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412)
-- [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)
+- [Writing HTML with accessibility in mind](https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412) - An introduction to web accessibility with tips on how to improve your markup
+- [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9) - Improve the accessibility of your JavaScript components
 - [Dos and don'ts on designing for accessibility](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
-- [Selfish accessibility](http://adrianroselli.com/2017/03/selfish-accessibility-slides-from-talk-at-government-digital-service.html)
 - [Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd/)
 - [How to Make Your Website Accessible to People Who Use a Screen Magnifier](https://dev.to/_bigblind/how-to-make-your-website-accessible-to-people-who-use-a-screen-magnifier)
-- [What I've learned about motor impairment](http://simpleprimate.com/blog/motor)
-- [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/)
+- [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/) - A specific article on why you shouldn't use disabled buttons
 - [Accessibility for Visual Design](http://www.uxbooth.com/articles/accessibility-visual-design/)
-- [Writing Accessible Content](https://foxland.fi/writing-accessible-content/)
-- [Designing accessible products](https://uxdesign.cc/designing-accessible-products-e8aa79b55ebc)
+- [Writing Accessible Content](https://foxland.fi/writing-accessible-content/) - Summary of good and bad practises about writing accessible content
+- [Designing accessible products](https://uxdesign.cc/designing-accessible-products-e8aa79b55ebc) - "A comprehensive visual guide to making web technology available to a diverse world"
 - [Writing descriptive alt attributes for images](http://simplyaccessible.com/article/descriptive-alt-attributes/)
-- [Personas for Accessible UX](http://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)
-- [The Web Should Just Work for Everyone](https://www.aaron-gustafson.com/notebook/the-web-should-just-work-for-everyone/)
 
 ### Automation
 
 - [The Power (and Limits) of Automated Accessibility Testing](https://www.nerdery.com/blog/the-power-and-limits-of-automated-accessibility-testing)
 - [Accessibility Testing with aXe-core and WebdriverJS](https://www.deque.com/blog/accessibility-testing-axe-webdriverjs/)
 
-## Videos
+### Other articles
+
+- [Personas for Accessible UX](http://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)
+- [What I've learned about motor impairment](http://simpleprimate.com/blog/motor)
+- [The Web Should Just Work for Everyone](https://www.aaron-gustafson.com/notebook/the-web-should-just-work-for-everyone/)
+- [Color Blindness Demonstration Using Coloured Pencils](https://imjustcreative.com/color-blindness/2017/01/26) - Simple demonstration, using Coloured Pencils, showing 4 types of Color Blindness
+- [Selfish accessibility](http://adrianroselli.com/2017/03/selfish-accessibility-slides-from-talk-at-government-digital-service.html) - Slides from a talk at GDS
+
+### Videos
 
 - [What does User Experience mean when you're blind?](https://vimeo.com/222490579)
 - [Inclusive Design 24 (#ID24)](http://www.inclusivedesign24.org/) - Videos from the #ID24 event
-- [Pragmatic Accessibility: A How-To Guide for Teams](https://www.youtube.com/watch?v=A5XzoDT37iM)
-- [The Velvet Rope](https://youtu.be/rZExvZEjvtk) - Great video of a talk at NUX5 by Henny Swan
+- [Pragmatic Accessibility: A How-To Guide for Teams](https://www.youtube.com/watch?v=A5XzoDT37iM) - A talk from [rob_dodson](https://twitter.com/rob_dodson) at Google I/O '17. Aimed at everyone (PMs, UX etc), not just developers!
+- [The Velvet Rope](https://youtu.be/rZExvZEjvtk) - Video of a great talk at [NUX5](https://2016.nuxconf.uk/) by Henny Swan about Accessible User Experience
 
 ## People to follow
 
@@ -209,8 +212,8 @@ Follow these people on Twitter ([aside from me, @ediblecode](https://twitter.com
 
 - [@a11y](https://twitter.com/a11y) - Curated list of [#a11y](https://twitter.com/hashtag/a11y) updates, curated by [@dotjay](https://twitter.com/@dotjay).
 - [Molly Watt (@MollyWattTalks)](https://twitter.com/MollyWattTalks)
-- [Alistair Duggin (@dugboticus)](https://twitter.com/dugboticus)
-- [Heydon Pickering (@heydonworks)](https://twitter.com/heydonworks)
+- [Alistair Duggin (@dugboticus)](https://twitter.com/dugboticus) - Head of accessibility at GDS
+- [Heydon Pickering (@heydonworks)](https://twitter.com/heydonworks) - Accessibility consultant, interface designer and writer
 - [Aaron Gustafson (@AaronGustafson)](https://twitter.com/AaronGustafson)
 - [Marcy Sutton (@marcysutton)](https://twitter.com/marcysutton)
 - [Steve Faulkner (@stevefaulkner)](https://twitter.com/stevefaulkner)
