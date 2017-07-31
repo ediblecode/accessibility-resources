@@ -120,6 +120,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [BBC News Accessibility](https://bbc-news.github.io/accessibility-news-and-you/)
 - [Facebook Accessibility Toolkit](https://code.facebook.com/posts/844124808988739/introducing-the-accessibility-toolkit/)
 - [Android accessibility](https://developer.android.com/guide/topics/ui/accessibility/index.html)
+- [Empathy Prompts](https://empathyprompts.net) - Ideas to help consider Inclusive Design principles when making things for others to use.
 
 ## Style guides
 
