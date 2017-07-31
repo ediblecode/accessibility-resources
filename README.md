@@ -42,6 +42,7 @@ Use external providers to deliver training, run audits, perform user testing and
 - [Shaw Trust](https://www.shaw-trust.org.uk/)
 - [AbilityNet](https://www.abilitynet.org.uk/)
 - [WebAIM](http://webaim.org/) - Not for profit organisation offering complete web accessibility services
+- [The Paciello Group](https://www.paciellogroup.com/) - end-to-end accessibility consultancy.
 
 ## Assistive technologies
 
