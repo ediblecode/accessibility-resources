@@ -49,7 +49,7 @@ Use external providers to deliver training, run audits, perform user testing and
 ### Screen readers
 
 - [Jaws](http://www.freedomscientific.com/Products/Blindness/JAWS) - The world's most popular screen reader
-NVDA
+- [NVDA](https://www.nvaccess.org/) - Free screen reader for Windows
 - [VoiceOver](https://www.apple.com/accessibility/mac/vision/) for iOS X and OS X
 - [Dolphin ScreenReader](https://yourdolphin.com/product?id=3) - Formerly Supernova
 - [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) - Free screen reader for Chrome
