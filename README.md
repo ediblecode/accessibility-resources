@@ -90,6 +90,8 @@ Use external providers to deliver training, run audits, perform user testing and
 - [Asqatasun](http://asqatasun.org/) - Opensource web site analyser
 - [tota11y](http://khan.github.io/tota11y/) - An accessibility visualization toolkit
 
+The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/).
+
 ### Writing
 
 - [Hemingway App](http://www.hemingwayapp.com/) - Highlights common problems that can get in the way of clear writing
