@@ -96,6 +96,7 @@ The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3
 
 - [Hemingway App](http://www.hemingwayapp.com/) - Highlights common problems that can get in the way of clear writing
 - [Readable](https://www.webpagefx.com/tools/read-able/) - Readability testing tool
+- [Readability Grader](https://jellymetrics.com/readability-grader/) - Simple tool to give text a readability score
 
 ### Simulation
 
