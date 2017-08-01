@@ -87,6 +87,7 @@ Use external providers to deliver training, run audits, perform user testing and
 - [AChecker](https://achecker.ca/checker/index.php) - tool that checks single HTML pages for conformance with accessibility standards to ensure the content can be accessed by everyone
 - [European Internet Inclusion Initiative](http://checkers.eiii.eu/) - Check the Accessibility of a Web Page
 - [Asqatasun](http://asqatasun.org/) - Opensource web site analyser
+- [tota11y](http://khan.github.io/tota11y/) - An accessibility visualization toolkit
 
 ### Writing
 
