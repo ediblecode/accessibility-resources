@@ -107,6 +107,7 @@ Use external providers to deliver training, run audits, perform user testing and
 - [Contrast ratio](http://leaverou.github.io/contrast-ratio/) - Lea Verou's tool for easily calculate color contrast ratios
 - [Colour Contrast Analyser (CCA)](https://www.paciellogroup.com/resources/contrastanalyser/) - Windows/Mac tool for to determine the legibility of text and the contrast of visual elements, such as graphical controls and visual indicators
 - [Jonathan Snook’s Colour Contrast Check](https://snook.ca/technical/colour_contrast/colour.html) - Colour contrast checking tool for both AA & AAA and 18pt+
+- [random a11y](https://www.randoma11y.com/) - Project to try and curate beautiful color palettes that are a11y friendly
 
 ### Test automation
 
