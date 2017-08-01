@@ -11,7 +11,7 @@
   + [Maginfiers](#maginfiers)
   + [Speech recognition](#speech-recognition)
   + [Reading solution](#reading-solution)
-  + [Contrast](#contrast)
+  + [Contrast-colour](#contrast)
 * [Tools](#tools)
   + [Checkers](#checkers)
   + [Writing](#writing)
@@ -70,9 +70,10 @@ Use external providers to deliver training, run audits, perform user testing and
 - [read&write](https://www.texthelp.com/en-gb/products/read-write/)
 - [Claro](https://www.clarosoftware.com/)
 
-### Contrast
+### Contrast/colour
 
 - [High Contrast](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph)
+- [Visolve](http://www.ryobi-sol.co.jp/visolve/en/) - The assistive software for people with color blindness
 
 ## Tools
 
