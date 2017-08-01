@@ -54,6 +54,7 @@ Use external providers to deliver training, run audits, perform user testing and
 - [Dolphin ScreenReader](https://yourdolphin.com/product?id=3) - Formerly Supernova
 - [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) - Free screen reader for Chrome
 - [TalkBack](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback&hl=en_GB) - Screen reader for Android devices
+- [Narrator](https://support.microsoft.com/en-us/help/17173/windows-10-hear-text-read-aloud) - Windows screen reader
 
 ### Maginfiers
 
