@@ -20,6 +20,7 @@
   + [Test automation](#test-automation)
 * [Checklists](#checklists)
 * [Meetups](#meetups)
+* [Books](#books)
 * [Courses](#courses)
 * [Other](#other)
 * [Style guides](#style-guides)
