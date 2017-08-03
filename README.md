@@ -190,6 +190,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Dos and don'ts on designing for accessibility](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
 - [Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd/)
 - [How to Make Your Website Accessible to People Who Use a Screen Magnifier](https://dev.to/_bigblind/how-to-make-your-website-accessible-to-people-who-use-a-screen-magnifier)
+- [How to make your site accessible for screen magnifiers](https://axesslab.com/make-site-accessible-screen-magnifiers/)
 - [Disabled buttons suck](https://axesslab.com/disabled-buttons-suck/) - A specific article on why you shouldn't use disabled buttons
 - [Accessibility for Visual Design](http://www.uxbooth.com/articles/accessibility-visual-design/)
 - [Writing Accessible Content](https://foxland.fi/writing-accessible-content/) - Summary of good and bad practises about writing accessible content
