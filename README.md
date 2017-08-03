@@ -142,6 +142,7 @@ The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3
 
 ## Books
 
+- [Inclusive Design Patterns](https://www.smashingmagazine.com/inclusive-design-patterns/) - Coding Accessibility Into Web Design
 - [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
 
 ## Courses
