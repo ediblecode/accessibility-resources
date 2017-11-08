@@ -208,6 +208,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [In Plain Sight: Text, Contrast, and Accessibility](https://ux.shopify.com/in-plain-sight-5639c9afb4c6) - Article from Shopify UX
 - [How to create content that works well with screen readers](https://accessibility.blog.gov.uk/2017/02/08/advice-for-creating-content-that-works-well-with-screen-readers/) - by [Léonie Watson](https://twitter.com/LeonieWatson)
 - [How to structure headings for web accessibility](https://www.nomensa.com/blog/2017/how-structure-headings-web-accessibility)
+- [Guidelines for Visualizing Links](https://www.nngroup.com/articles/guidelines-for-visualizing-links/) - From 2004 but still as relevant today
 
 ### Automation
 
