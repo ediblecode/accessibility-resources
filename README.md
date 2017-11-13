@@ -130,6 +130,7 @@ The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3
 
 ## Checklists
 
+- [Inclusive Design Checklist](https://github.com/Heydon/inclusive-design-checklist/)
 - [A11Y checklist](http://a11yproject.com/checklist.html)
 - [Vox Media](http://accessibility.voxmedia.com/)
 - [Opquast Web Quality Checklist](https://www.opquast.com/opquast-web-quality-checklist/)
