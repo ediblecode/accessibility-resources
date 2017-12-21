@@ -228,6 +228,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Reframing Accessibility for the Web](https://alistapart.com/article/reframing-accessibility-for-the-web)
 - [How I Audit a Website for Accessibility](http://substantial.com/blog/2014/07/22/how-i-audit-a-website-for-accessibility/)
 - [Ensuring iPlayer is accessible to all](https://iplayer.engineering/ensuring-iplayer-is-accessible-to-all-3d55a419242b)
+- [Inclusive design toolkit](https://www.ontario.ca/page/inclusive-design-toolkit)
 
 ### Videos
 
