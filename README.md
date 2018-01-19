@@ -191,6 +191,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Innovating with accessibility in mind](https://www.oreilly.com/ideas/innovating-with-accessibility-in-mind)
 - [Championing Accessibility at the Guardian](https://www.theguardian.com/info/developer-blog/2017/jun/26/championing-accessibility-at-the-guardian)
 - [Tips for making accessibility a core design principle](https://pixelpioneers.co/blog/2017/13-expert-tips-accessibility)
+- [The quest to make Microsoft accessible to its core](https://www.microsoft.com/itshowcase/blog/quest-make-microsoft-accessible-core/)
 
 ### Techniques
 
