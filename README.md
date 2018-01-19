@@ -212,6 +212,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [How to structure headings for web accessibility](https://www.nomensa.com/blog/2017/how-structure-headings-web-accessibility)
 - [Guidelines for Visualizing Links](https://www.nngroup.com/articles/guidelines-for-visualizing-links/) - From 2004 but still as relevant today
 - [A Developer’s Guide to Better Accessibility](https://www.24a11y.com/2017/a-developers-guide-to-better-accessibility/)
+- [How to design websites for blind and partially sighted people](http://whatusersdo.com/blog/how-to-design-websites-for-blind-and-partially-sighted-people/)
 
 ### Automation
 
