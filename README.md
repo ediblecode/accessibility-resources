@@ -94,6 +94,7 @@ Use external providers to deliver training, run audits, perform user testing and
 - [Visual ARIA Bookmarklet](http://whatsock.com/training/matrices/visual-aria.htm) - visualise ARIA usage
 - [ASLint](https://www.aslint.org/) - Accessibility testing tool
 - [Koa11y](https://open-indy.github.io/Koa11y/) - Desktop app that allows you to automatically detect accessibility (a11y) issues on webpages.
+- [a11y-outline](https://xi.github.io/a11y-outline/) - Bookmarklet for listing landmarks, headings or links
 
 The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/).
 
