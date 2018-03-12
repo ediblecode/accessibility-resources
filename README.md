@@ -169,6 +169,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Facebook Accessibility Toolkit](https://code.facebook.com/posts/844124808988739/introducing-the-accessibility-toolkit/)
 - [Android accessibility](https://developer.android.com/guide/topics/ui/accessibility/index.html)
 - [Empathy Prompts](https://empathyprompts.net) - Ideas to help consider Inclusive Design principles when making things for others to use.
+- [Game accessibility guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design
 
 ## Style guides
 
