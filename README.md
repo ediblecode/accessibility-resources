@@ -140,6 +140,7 @@ The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3
 - [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/)
 - [Wuhcag - WCAG 2.0 checklists](https://www.wuhcag.com/wcag-checklist/)
 - [IBM Accessibility Checklist](http://www-03.ibm.com/able/guidelines/ci162/accessibility_checklist.html)
+- [WCAG 2.0 Quick Reference](http://3pha.com/wcag2/) - Not a checklist as such but a good concise reference to the WCAG success criteria
 
 ## Meetups
 
