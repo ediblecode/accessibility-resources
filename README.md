@@ -21,6 +21,7 @@
 * [Checklists](#checklists)
 * [Meetups](#meetups)
 * [Books](#books)
+* [Posters](#posters)
 * [Courses](#courses)
 * [Other](#other)
 * [Style guides](#style-guides)
@@ -151,6 +152,11 @@ The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3
 
 - [Inclusive Design Patterns](https://www.smashingmagazine.com/inclusive-design-patterns/) - Coding Accessibility Into Web Design
 - [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
+
+## Posters
+
+- [Dos and don'ts on designing for accessibility](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) - 6 posters from gov.uk around designing for accessibility
+- [Dos and Don’ts on Designing for Aphasia Accessibility](https://blogs.city.ac.uk/inca/outputs/) - Aphasia is language loss after stroke and other forms of brain injury.
 
 ## Courses
 
