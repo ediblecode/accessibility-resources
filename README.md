@@ -121,6 +121,7 @@ The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3
 - [Jonathan Snook’s Colour Contrast Check](https://snook.ca/technical/colour_contrast/colour.html) - Colour contrast checking tool for both AA & AAA and 18pt+
 - [random a11y](https://www.randoma11y.com/) - Project to try and curate beautiful color palettes that are a11y friendly
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester
+- [Are My Colours Accessible?](http://www.aremycoloursaccessible.com) - Simple contrast checker for normal, bold and large text against AA and AAA
 
 ### Test automation
 
