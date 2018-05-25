@@ -110,6 +110,7 @@ The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3
 - [ChromeLens](http://chromelens.xyz/) - Chrome DevTools extension to develop for the visually impaired
 - [Vischeck](http://www.vischeck.com/) - Simulate colorblind vision
 - [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl) - Simulate how visual impairments affect website accessibility
+- [Funkify](https://www.funkify.org/) - Chrome extension that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities.
 
 ### Colour contrast
 
