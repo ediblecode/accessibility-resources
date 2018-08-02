@@ -4,33 +4,36 @@
 
 ## Table of contents
 
-* [General info](#general-info)
-* [Service providers](#service-providers)
-* [Assistive technologies](#assistive-technologies)
-  + [Screen readers](#screen-readers)
-  + [Maginfiers](#maginfiers)
-  + [Speech recognition](#speech-recognition)
-  + [Reading solution](#reading-solution)
-  + [Contrast-colour](#contrast)
-* [Tools](#tools)
-  + [Checkers](#checkers)
-  + [Writing](#writing)
-  + [Simulation](#simulation)
-  + [Colour contrast](#colour-contrast)
-  + [Test automation](#test-automation)
-* [Checklists](#checklists)
-* [Meetups](#meetups)
-* [Books](#books)
-* [Posters](#posters)
-* [Courses](#courses)
-* [Other](#other)
-* [Style guides](#style-guides)
-* [Articles, blogs & links](#articles-blogs--links)
-  + [Culture](#culture)
-  + [Techniques](#techniques)
-  + [Automation](#automation)
-  + [Videos](#videos)
-* [People to follow](#people-to-follow)
+- [Accessibility resources](#accessibility-resources)
+  - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Service providers](#service-providers)
+  - [Assistive technologies](#assistive-technologies)
+    - [Screen readers](#screen-readers)
+    - [Maginfiers](#maginfiers)
+    - [Speech recognition](#speech-recognition)
+    - [Reading solution](#reading-solution)
+    - [Contrast/colour](#contrastcolour)
+  - [Tools](#tools)
+    - [Checkers](#checkers)
+    - [Writing](#writing)
+    - [Simulation](#simulation)
+    - [Colour contrast](#colour-contrast)
+    - [Test automation](#test-automation)
+  - [Checklists](#checklists)
+  - [Meetups](#meetups)
+  - [Books](#books)
+  - [Posters](#posters)
+  - [Courses](#courses)
+  - [Other](#other)
+  - [Style guides](#style-guides)
+  - [Articles, blogs & links](#articles-blogs--links)
+    - [Culture](#culture)
+    - [Techniques](#techniques)
+    - [Automation](#automation)
+    - [Other articles](#other-articles)
+    - [Videos](#videos)
+  - [People to follow](#people-to-follow)
 
 ## General info
 
@@ -135,9 +138,10 @@ The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3
 
 ## Checklists
 
-- [Inclusive Design Checklist](https://github.com/Heydon/inclusive-design-checklist/)
-- [A11Y checklist](http://a11yproject.com/checklist.html)
-- [Vox Media](http://accessibility.voxmedia.com/)
+- [Inclusive Design Checklist](https://github.com/Heydon/inclusive-design-checklist/) - Aims to be the biggest checklist of inclusive design considerations.
+- [A11Y Nutrition Cards](https://davatron5000.github.io/a11y-nutrition-cards/) is an attempt to digest and simplify the accessibility expectations when it comes to component authoring
+- [A11Y checklist](http://a11yproject.com/checklist.html) - A beginner's guide to web accessibility
+- [Vox Media](http://accessibility.voxmedia.com/) - Checklists for project managers and editorial teams as well as developers and designers
 - [Opquast Web Quality Checklist](https://www.opquast.com/opquast-web-quality-checklist/)
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) - Summary of WCAG with practical examples
 - [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/)
