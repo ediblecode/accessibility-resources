@@ -195,6 +195,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [React](https://facebook.github.io/react/docs/accessibility.html) - Implement accessible React apps
 - [Shopify - Polaris](https://polaris.shopify.com/principles/accessibility)
 - [MailChimp - Writing for Accessibility](http://styleguide.mailchimp.com/writing-for-accessibility/)
+- [A11Y Style Guide](http://a11y-style-guide.com/) - A living style guide or pattern library, generated from KSS documented styles...with an accessibility twist
 
 ## Articles, blogs & links
 
