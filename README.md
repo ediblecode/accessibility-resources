@@ -139,6 +139,7 @@ The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3
 
 ## Checklists
 
+- [Accessibility for Teams](https://accessibility.digital.gov/) - A ‘quick-start’ guide for embedding accessibility and inclusive design practices into your team’s workflow
 - [Inclusive Design Checklist](https://github.com/Heydon/inclusive-design-checklist/) - Aims to be the biggest checklist of inclusive design considerations.
 - [A11Y Nutrition Cards](https://davatron5000.github.io/a11y-nutrition-cards/) is an attempt to digest and simplify the accessibility expectations when it comes to component authoring
 - [A11Y checklist](http://a11yproject.com/checklist.html) - A beginner's guide to web accessibility
