@@ -265,14 +265,4 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 
 ## People to follow
 
-Follow these people on Twitter ([aside from me, @ediblecode](https://twitter.com/ediblecode)) for [#a11y](https://twitter.com/hashtag/a11y) updates:
-
-- [@a11y](https://twitter.com/a11y) - Curated list of [#a11y](https://twitter.com/hashtag/a11y) updates, curated by [@dotjay](https://twitter.com/@dotjay).
-- [Molly Watt (@MollyWattTalks)](https://twitter.com/MollyWattTalks)
-- [Alistair Duggin (@dugboticus)](https://twitter.com/dugboticus) - Head of accessibility at GDS
-- [Heydon Pickering (@heydonworks)](https://twitter.com/heydonworks) - Accessibility consultant, interface designer and writer
-- [Aaron Gustafson (@AaronGustafson)](https://twitter.com/AaronGustafson)
-- [Marcy Sutton (@marcysutton)](https://twitter.com/marcysutton)
-- [Steve Faulkner (@stevefaulkner)](https://twitter.com/stevefaulkner)
-- [Léonie Watson (@LeonieWatson)](https://twitter.com/LeonieWatson)
-- [Billy Gregory (@thebillygregory)](https://twitter.com/thebillygregory)
+See [The A11Y Project's who to follow](https://a11yproject.com/follow#people) or [Joe Watkin's "Top People to Follow in Web Accessibility"](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility).
