@@ -1,6 +1,6 @@
 # Accessibility resources
 
-> A curated list of accessibility resources
+> A curated list of accessibility resources by [@ediblecode](https://twitter.com/ediblecode)
 
 ## Table of contents
 
@@ -165,6 +165,7 @@ See [The A11Y Project's list of meetups](https://a11yproject.com/follow#meetups)
 
 - [Dos and don'ts on designing for accessibility](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) - 6 posters from gov.uk around designing for accessibility
 - [Dos and Don’ts on Designing for Aphasia Accessibility](https://blogs.city.ac.uk/inca/outputs/) - Aphasia is language loss after stroke and other forms of brain injury.
+- [UKHomeOffice posters on GitHub](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
 
 ## Courses
 
