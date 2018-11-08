@@ -153,10 +153,7 @@ The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3
 
 ## Meetups
 
-- [openmcr](https://twitter.com/openmcr) - A meetup in Manchester focussing on making digital services accessible to everyone
-- [Edinburgh Accessibility and Inclusive Design Meetup](https://www.meetup.com/Edinburgh-a11y-Meetup/). Also [@a11yedinburgh](https://twitter.com/a11yedinburgh)
-- [A11YChi](https://www.meetup.com/a11ychi/) - Chicago Digital Accessibility and Inclusive Design
-- [Accessibility Club](http://a11y.club) - Berlin - Hands-on webworker meetup about all things web accessibility & assistive technology — non-regular & non-profit 
+See [The A11Y Project's list of meetups](https://a11yproject.com/follow#meetups).
 
 ## Books
 
