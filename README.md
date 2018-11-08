@@ -100,6 +100,8 @@ Use external providers to deliver training, run audits, perform user testing and
 - [Koa11y](https://open-indy.github.io/Koa11y/) - Desktop app that allows you to automatically detect accessibility (a11y) issues on webpages.
 - [a11y-outline](https://xi.github.io/a11y-outline/) - Bookmarklet for listing landmarks, headings or links
 - [MAWD](https://myaccessible.website/detective) - MAWD combines automated testing with your input to find everything you need to fix
+- [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for accessibility rules on JSX elements.
+- [react-a11y](https://github.com/reactjs/react-a11y) - Warns about potential accessibility issues with your React elements.
 
 The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/).
 
