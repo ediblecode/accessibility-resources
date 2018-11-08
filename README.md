@@ -232,6 +232,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Guidelines for Visualizing Links](https://www.nngroup.com/articles/guidelines-for-visualizing-links/) - From 2004 but still as relevant today
 - [A Developer’s Guide to Better Accessibility](https://www.24a11y.com/2017/a-developers-guide-to-better-accessibility/)
 - [How to design websites for blind and partially sighted people](http://whatusersdo.com/blog/how-to-design-websites-for-blind-and-partially-sighted-people/)
+- [Podcast Accessibility](https://podcast-accessibility.com/) - How to make your podcast accessible for everyone
 
 ### Automation
 
@@ -259,6 +260,10 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [The Velvet Rope](https://youtu.be/rZExvZEjvtk) - Video of a great talk at [NUX5](https://2016.nuxconf.uk/) by Henny Swan about Accessible User Experience
 - [YES, your site too can (and should) be accessible](https://www.youtube.com/watch?v=H4FzW9oFObs) - [Laura Carvajals
 (@lc512k)](https://twitter.com/lc512k) from the FT's talk at JSConf EU 2017.
+
+### Podcasts
+
+- (Conversations around web accessibility)[https://a11yrules.com/]
 
 ## People to follow
 
