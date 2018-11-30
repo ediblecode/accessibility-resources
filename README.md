@@ -7,6 +7,7 @@
 - [Accessibility resources](#accessibility-resources)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
+    - [Legislation](#legislation)
   - [Service providers](#service-providers)
   - [Assistive technologies](#assistive-technologies)
     - [Screen readers](#screen-readers)
@@ -39,6 +40,11 @@
 
 - [W3C Accessibility](https://www.w3.org/standards/webdesign/accessibility)
 - [Guidance for service providers about their duties under the Equality Act 2010](https://www.equalityhumanrights.com/en/advice-and-guidance/guidance-service-providers)
+
+### Legislation
+
+- [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents)
+- [EU directive - accessibility of the websites and mobile applications of public sector bodies](https://eur-lex.europa.eu/eli/dir/2016/2102/oj)
 
 ## Service providers
 
