@@ -256,6 +256,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 ### Other articles
 
 - [Personas for Accessible UX](http://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/)
+- [Diverse Personas](https://members.businessdisabilityforum.org.uk/resource-category/resource/barclays-diverse-personas/)
 - [What I've learned about motor impairment](http://simpleprimate.com/blog/motor)
 - [The Web Should Just Work for Everyone](https://www.aaron-gustafson.com/notebook/the-web-should-just-work-for-everyone/)
 - [Color Blindness Demonstration Using Coloured Pencils](https://imjustcreative.com/color-blindness/2017/01/26) - Simple demonstration, using Coloured Pencils, showing 4 types of Color Blindness
