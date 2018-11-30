@@ -270,7 +270,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 
 ### Podcasts
 
-- (Conversations around web accessibility)[https://a11yrules.com/]
+- [Conversations around web accessibility](https://a11yrules.com/)
 
 ## People to follow
 
