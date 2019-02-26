@@ -177,6 +177,7 @@ Print these out. Stick them round your office. Educate the world.
 - [Dos and Don’ts on Designing for Aphasia Accessibility](https://blogs.city.ac.uk/inca/outputs/) - Aphasia is language loss after stroke and other forms of brain injury.
 - [UKHomeOffice posters on GitHub](https://github.com/UKHomeOffice/posters/tree/master/accessibility)
 - [Inclusive Design posters from Barclays](https://developer.paciellogroup.com/blog/2017/08/inclusive-design-posters-from-barclays/)
+- [Researching access needs: who to include when](https://github.com/UKHomeOffice/posters/blob/master/accessibility/researching-access-needs/Research-who_to_include_when%3F.pdf)
 
 ## Courses
 
