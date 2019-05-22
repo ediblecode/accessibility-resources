@@ -249,6 +249,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [A Developer’s Guide to Better Accessibility](https://www.24a11y.com/2017/a-developers-guide-to-better-accessibility/)
 - [How to design websites for blind and partially sighted people](http://whatusersdo.com/blog/how-to-design-websites-for-blind-and-partially-sighted-people/)
 - [Podcast Accessibility](https://podcast-accessibility.com/) - How to make your podcast accessible for everyone
+- [How to design a website for someone affected by dementia](https://www.alzheimers.org.uk/blog/how-design-website-someone-affected-dementia)
 
 ### Automation
 
