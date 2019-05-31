@@ -270,6 +270,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Ensuring iPlayer is accessible to all](https://iplayer.engineering/ensuring-iplayer-is-accessible-to-all-3d55a419242b)
 - [Inclusive design toolkit](https://www.ontario.ca/page/inclusive-design-toolkit)
 - [Screen Reader User Survey](https://webaim.org/projects/screenreadersurvey7/) - Recent survey by WebAIM around screen reader usage
+- [Building the most inaccessible site possible with a perfect Lighthouse score](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/) - Proving that 100/100 on Lighthouse needs to be taken with a pinch of salt
 
 ### Videos
 
