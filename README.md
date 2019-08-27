@@ -250,6 +250,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [How to design websites for blind and partially sighted people](http://whatusersdo.com/blog/how-to-design-websites-for-blind-and-partially-sighted-people/)
 - [Podcast Accessibility](https://podcast-accessibility.com/) - How to make your podcast accessible for everyone
 - [How to design a website for someone affected by dementia](https://www.alzheimers.org.uk/blog/how-design-website-someone-affected-dementia)
+- [The problem with tooltips and what to do instead](https://adamsilver.io/articles/the-problem-with-tooltips-and-what-to-do-instead/)
 
 ### Automation
 
