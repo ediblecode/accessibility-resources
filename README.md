@@ -203,6 +203,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Empathy Prompts](https://empathyprompts.net) - Ideas to help consider Inclusive Design principles when making things for others to use.
 - [Game accessibility guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design
 - [Generate an Accessibility Statement](https://www.w3.org/WAI/planning/statements/generator/#create)
+- [AppleVis](https://www.applevis.com/) - A community-powered website for blind and low-vision users of Apple's products
 
 ## Style guides
 
