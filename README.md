@@ -138,6 +138,7 @@ The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester
 - [Are My Colours Accessible?](http://www.aremycoloursaccessible.com) - Simple contrast checker for normal, bold and large text against AA and AAA
 - [Button Contrast Checker](https://www.aditus.io/button-contrast-checker/)
+- [Who Can Use](https://whocanuse.com/) - A tool that brings attention and understanding to how color contrast can affect different people with visual impairments
 
 ### Test automation
 
