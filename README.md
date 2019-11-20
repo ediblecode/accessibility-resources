@@ -277,6 +277,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Screen Reader User Survey](https://webaim.org/projects/screenreadersurvey7/) - Recent survey by WebAIM around screen reader usage
 - [Building the most inaccessible site possible with a perfect Lighthouse score](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/) - Proving that 100/100 on Lighthouse needs to be taken with a pinch of salt
 - [Accessibility Wins](https://a11ywins.tumblr.com/) - Showcasing accessible user interfaces and tools.
+- [The business case for inclusive design](https://bighack.org/the-business-case-for-inclusive-design-big-hack-study-research-digital-accessibility/)
 
 ### Videos
 
