@@ -110,6 +110,8 @@ Use external providers to deliver training, run audits, perform user testing and
 - [react-a11y](https://github.com/reactjs/react-a11y) - Warns about potential accessibility issues with your React elements.
 - [Accessibility Insights](https://accessibilityinsights.io/) - Solve accessibility issues before they reach your customers
 - [Twitter Image Descriptions Stats](https://tweet-a11y-stats.glitch.me/stats) - Check your Twitter images have alternative text descriptions
+- [Check the Accessibility of a PDF Document](http://checkers.eiii.eu/en/pdfcheck/)
+- [PDF Accessibility Checker (PAC 3)](https://www.access-for-all.ch/en/pdf-lab/pdf-accessibility-checker-pac.html)
 
 The W3C also provides a [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/).
 
