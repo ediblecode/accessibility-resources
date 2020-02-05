@@ -209,6 +209,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Generate an Accessibility Statement](https://www.w3.org/WAI/planning/statements/generator/#create)
 - [AppleVis](https://www.applevis.com/) - A community-powered website for blind and low-vision users of Apple's products
 - [Accessible UK Train Timetables](https://traintimes.org.uk/)
+- [Record a goose sighting](https://github.com/ministryofjustice/record-a-goose-sighting#readme) - a fictional service to use an exercise for training teams about accessibility
 
 ## Style guides
 
