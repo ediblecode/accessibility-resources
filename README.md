@@ -191,6 +191,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 
 ## Other
 
+- [WCAG 2.1 Primer](https://alphagov.github.io/wcag-primer/) - help you get up to speed with WCAG 2.1 quickly and avoid common mistakes people make when creating or updating web content
 - [The A11Y project](http://a11yproject.com/) - A community-driven effort to make web accessibility easier
 - [Inclusive Design Principles](http://inclusivedesignprinciples.org/)
 - [Inclusive Components](https://inclusive-components.design/)
