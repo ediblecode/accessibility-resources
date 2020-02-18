@@ -34,6 +34,7 @@
     - [Automation](#automation)
     - [Other articles](#other-articles)
     - [Videos](#videos)
+    - [Podcasts](#podcasts)
   - [People to follow](#people-to-follow)
 
 ## General info
@@ -295,6 +296,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 ### Podcasts
 
 - [Conversations around web accessibility](https://a11yrules.com/)
+- [13 Letters](https://www.bemyeyes.com/podcasts-show/13-letters) - The Accessibility Podcast
 
 ## People to follow
 
