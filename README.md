@@ -201,7 +201,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [a11y Slack](https://web-a11y.herokuapp.com/)
 - [#topic-accessibility on Design Systems Slack](http://designsystems.herokuapp.com/)
 - [Inclusive Design at Microsoft](https://www.microsoft.com/en-us/design/inclusive)
-- [BBC News Accessibility](https://bbc-news.github.io/accessibility-news-and-you/)
+- [BBC News Accessibility](https://bbc.github.io/accessibility-news-and-you/)
 - [Facebook Accessibility Toolkit](https://code.facebook.com/posts/844124808988739/introducing-the-accessibility-toolkit/)
 - [Android accessibility](https://developer.android.com/guide/topics/ui/accessibility/index.html)
 - [Empathy Prompts](https://empathyprompts.net) - Ideas to help consider Inclusive Design principles when making things for others to use.
