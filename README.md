@@ -216,6 +216,7 @@ See [a11y-courses](https://github.com/mgifford/a11y-courses).
 - [Shake - The Typeface with Parkinson's](https://writewithparkinsons.com/) - a typeface made from the real handwriting of a person living with Parkinson's Disease
 - [How Web Accessibility Works](https://blog.segunolalive.com/posts/how-web-accessibility-works/)
 - [A11y Coffee](https://a11y.coffee/) - Pick your serving size of web accessibility information
+- [Cards for Humanity](https://cardsforhumanity.idean.com/) - A practical tool to help you design more inclusively.
 
 ## Style guides
 
