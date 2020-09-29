@@ -1,3 +1,5 @@
+:exclamation: You should probably just go to [a11yresources.webflow.io](https://a11yresources.webflow.io/) instead. It's awesome.
+
 # Accessibility resources
 
 > A curated list of accessibility resources by [@ediblecode](https://twitter.com/ediblecode)
